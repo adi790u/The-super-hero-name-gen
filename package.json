@@ -1,0 +1,15 @@
+{
+  "name": "superheronamegen",
+  "version": "1.0.0",
+  "description": "A site which generates a superhero name\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[\u001b[C\u001ba\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Aditya Agarwal",
+  "license": "ISC",
+  "dependencies": {
+    "superheroes": "^3.0.0",
+    "uniqid": "^5.4.0"
+  }
+}
